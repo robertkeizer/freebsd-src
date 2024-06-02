@@ -6,7 +6,7 @@
  * Version 0.93a of rfc4418.txt -- 2006 July 14
  *
  * For a full description of UMAC message authentication see the UMAC
- * world-wide-web page at http://www.cs.ucdavis.edu/~rogaway/umac
+ * world-wide-web page at https://fastcrypto.org/umac/
  * Please report bugs and suggestions to the UMAC webpage.
  *
  * Copyright (c) 1999-2004 Ted Krovetz
