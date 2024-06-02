@@ -40,8 +40,9 @@
   * "Barreto"). The only two files needed are rijndael-alg-fst.c and
   * rijndael-alg-fst.h.
   * Brian Gladman's version is distributed with GNU Public license
-  * and can be found at http://fp.gladman.plus.com/AES/index.htm. It
-  * includes a fast IA-32 assembly version.
+  * and can be found at
+  * http://web.archive.org/web/20090122072455/http://fp.gladman.plus.com:80/AES/index.htm.
+  * It includes a fast IA-32 assembly version.
   *
   /////////////////////////////////////////////////////////////////////// */
 #ifndef HEADER_UMAC_H
