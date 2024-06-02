@@ -36,9 +36,10 @@
   *
   * 4) Two free AES implementations are supported by this implementation of
   * UMAC. Paulo Barreto's version is in the public domain and can be found
-  * at http://www.esat.kuleuven.ac.be/~rijmen/rijndael/ (search for
-  * "Barreto"). The only two files needed are rijndael-alg-fst.c and
-  * rijndael-alg-fst.h.
+  * at
+  * https://web.archive.org/web/20041208053600/http://www.esat.kuleuven.ac.be/~rijmen/rijndael/
+  * (search for "Barreto"). The only two files needed are rijndael-alg-fst.c
+  * and rijndael-alg-fst.h.
   * Brian Gladman's version is distributed with GNU Public license
   * and can be found at
   * http://web.archive.org/web/20090122072455/http://fp.gladman.plus.com:80/AES/index.htm.
